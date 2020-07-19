@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RonaStats/static/css/main.4ba215dd.chunk.css",
+    "main.js": "/RonaStats/static/js/main.8d670f1b.chunk.js",
+    "main.js.map": "/RonaStats/static/js/main.8d670f1b.chunk.js.map",
+    "runtime-main.js": "/RonaStats/static/js/runtime-main.e59cfcdf.js",
+    "runtime-main.js.map": "/RonaStats/static/js/runtime-main.e59cfcdf.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/RonaStats/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.204c4eef.chunk.js": "/RonaStats/static/js/2.204c4eef.chunk.js",
+    "static/js/2.204c4eef.chunk.js.map": "/RonaStats/static/js/2.204c4eef.chunk.js.map",
+    "index.html": "/RonaStats/index.html",
+    "precache-manifest.0dc3f4487a0b89281998d7e2b5b82744.js": "/RonaStats/precache-manifest.0dc3f4487a0b89281998d7e2b5b82744.js",
+    "service-worker.js": "/RonaStats/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/RonaStats/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.4ba215dd.chunk.css.map": "/RonaStats/static/css/main.4ba215dd.chunk.css.map",
+    "static/js/2.204c4eef.chunk.js.LICENSE.txt": "/RonaStats/static/js/2.204c4eef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e59cfcdf.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.204c4eef.chunk.js",
+    "static/css/main.4ba215dd.chunk.css",
+    "static/js/main.8d670f1b.chunk.js"
+  ]
+}
