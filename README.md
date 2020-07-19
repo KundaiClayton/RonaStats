@@ -1,3 +1,4 @@
+ HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# RonaStats
+
+This is a covid 19 statistics tracker.It gives realtime statistics for all the countries in the world and also Ranks the top 10 most affected countries
+ efb3dad151dfe846037fe6fe9d5a87d4c5e8a205
