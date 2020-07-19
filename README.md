@@ -71,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 This is a covid 19 statistics tracker.It gives realtime statistics for all the countries in the world and also Ranks the top 10 most affected countries
  efb3dad151dfe846037fe6fe9d5a87d4c5e8a205
+
+Setup:
+run npm i && npm start
