@@ -1,38 +1,140 @@
+
 .App {
   text-align: center;
+  margin: 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: whitesmoke;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-links{
+  list-style: none;
+  display: flex;
+  justify-content:space-around;
+  width: 90%;
+  align-items: center;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.content {
+  margin-top: auto;
+  width: 100%;
+  flex: 1;
+  box-sizing: border-box;
+  background-color:white;
+  border-radius: 16px 16px 0px 0px;
+  padding: 16px 16px 80px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rank-list {
+  width: 100%;
+  padding-inline-start: 0px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rank-list {
+  width: 100%;
+  padding-inline-start: 0px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rank-list li {
+  box-sizing: border-box;
+  width: 100%;
+  height: 32px;
+  padding-inline-start: 0px;
+  padding: 32px 12px 32px 12px !important;
+  border-radius: 8px 8px 8px 8px;
+  margin-bottom: 16px;
+  background-color:whitesmoke;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: flex-start; */
+}
+.rank-number {
+  width: 40px;
+  border-right: 2px solid #000a12;
+  padding-right: 8px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+.position {
+  font-size: 28px;
+}
+.rank-content {
+  width: 80%;
+  padding-left: 22px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.country-name {
+  font-size: 16px;
+  margin: 5px;
+}
+.province-state-name {
+  font-size: 10px;
+  color: #e6cccc;
+}
+.case-summary {
+  font-size: 16px;
+}
+.case-summary-text {
+  margin-right: 8px;
+}
+.icon {
+  width: 8px;
+}
+.list-box-separator {
+  margin: 0px 8px 16px 8px;
+  width: 20px;
+  box-sizing: border-box;
+  border-bottom: 4px dotted #263238;
+  align-self: center;
+}
+.graph{
+  margin-top: 50px;
+  align-items: center;
+  
+}
+@media only screen and (max-width: 700px) {
+  .graph {
+    width: 400px;
+
+  }
 }
 
-.App-link {
-  color: #61dafb;
+.main-footer{
+  
+  background-color:whitesmoke;
+  padding-top: 2rem;
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.page-container{
+  display: flex;
+  flex-direction: column;
+  min-height:100vh ;
+}
+.content-wrap{
+  flex:1
 }
