@@ -1,6 +1,6 @@
 {
   "homepage": "http://KundaiClayton.github.io/RonaStats/",
-  "name": "coroapp",
+  "name": "RonaStats",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
